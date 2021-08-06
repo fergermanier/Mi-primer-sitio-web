@@ -1,0 +1,15 @@
+{
+  "name": "cuartaentregatrabajocomunidadspeaker",
+  "version": "1.0.0",
+  "description": "Comunidad Speaker - Oratoria saludable - Plataforma de educación e-Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Comunidad Speaker",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1",
+    "nodemon": "^2.0.12"
+  }
+}
